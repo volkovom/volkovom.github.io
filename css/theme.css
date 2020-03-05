@@ -148,7 +148,7 @@ hgroup h2 + h1, hgroup h1 + h2{
 	text-transform:uppercase;
 	height:65px;
 	line-height:62px;
-	font-size:13px;
+	font-size:12px;
 	font-weight:700;
 }
 #menu-close{
